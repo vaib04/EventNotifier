@@ -15,9 +15,9 @@
             android:id="@+id/surface"/>
 
 
-    <TextView
+    <!--<TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/data"
-        android:layout_alignParentBottom="true"/>
+        android:layout_alignParentBottom="true"/> -->
 </RelativeLayout>
